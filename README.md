@@ -111,10 +111,8 @@ Defines background audio elements.
 
 This JSON prompt can be used with **AI text-to-video tools**, such as:
 
-- Runway Gen-3
-- Pika
-- Stable Video Diffusion pipelines
-- Custom AI video generation workflows
+- [Runway Gen-3](https://labs.google/fx/tools/flow)
+-
 
 Steps:
 
